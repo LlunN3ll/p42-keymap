@@ -11,7 +11,54 @@ Vial is used for making changes to the layout easier, learn more about it [here]
 
 <details>
     <summary>
-        Base Layer
+        Base Layer (0)
     </summary>
+<img width="800" src="https://user-images.githubusercontent.com/106228938/200300233-df4a7829-ca98-4a94-89a7-5299068e7cf7.png">
 
+> Backspace acts as mouse layer toggle.
+</details>
+
+<details>
+    <summary>
+        Numbers/Symbols Layer (1)
+    </summary>
+<img width="800" src="https://user-images.githubusercontent.com/106228938/200300846-7b83864f-6d13-4484-ae0c-71ea80bb3821.png">
+
+> Numbers on left, symbols on right. Tap Dances 0 and 1 serve as work arounds to mod-taps not allowing special characters, they are Left Parenthesis/Right Shift and Right Parenthesis/Left Alt respectively.
+</details>
+
+<details>
+    <summary>
+        Media/Functions Layer (2)
+  </summary>
+<img width="800" src="https://user-images.githubusercontent.com/106228938/200300909-76109497-01cc-415d-9dba-0ccb9677ceff.png">  
+
+> Functions on left and media on right
+</details>
+
+<details>
+    <summary>
+        Gaming Layer (3)
+  </summary>
+<img width="800" src="https://user-images.githubusercontent.com/106228938/200300954-2c83d219-ae86-442c-b70c-cbf80a75159f.png">  
+
+> TD(3) - Esc when tapped, 0 when pressed; TD(4) - Tilde when tapped, Alt when held; TD (5) - Toggle base layer (0) when tapped, P when held.
+</details>
+
+<details>
+    <summary>
+        Mouse Layer (4)
+   </summary>
+<img width="800" src="https://user-images.githubusercontent.com/106228938/200300983-ac7077b1-05ac-4e15-8254-5b89e7e11d50.png">    
+
+>Macro (0) - used for alt-tabbing.
+</details>
+
+<details>
+    <summary>
+    Editing Layer (5)
+    </summary>
+<img width="800" src="https://user-images.githubusercontent.com/106228938/200301021-3fb97332-0ec8-4bdc-b73f-64afe97c7071.png">   
+
+>Editing layer, same macro is reused.
 </details>
