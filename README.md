@@ -5,3 +5,13 @@ This keymap is rarely maintained and should only really be used for reference. T
 
 Vial is used for making changes to the layout easier, learn more about it [here](https://get.vial.today/).
 ### Note - VIAL_INSECURE is enabled and the UID is my own so you may have to generate another one to get Vial working for you.
+
+## Layers:
+> This layout was tweaked over the course of two years through trial and error and still continues to be infrequently modified. Many of the design principles are based on a mish-mish of things scavenged online and personal experiences using this as a daily driver for a number of years.
+
+<details>
+    <summary>
+        Base Layer
+    </summary>
+
+</details>
